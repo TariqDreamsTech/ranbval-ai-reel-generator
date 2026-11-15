@@ -5,7 +5,6 @@ Turn a single audio recording into a ready-to-post vertical video (Instagram Ree
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t3JpbgELlbk9DuSwDSQi_racwDltCa_C#scrollTo=ZY6NMLDfLrkf)
 
-> About Ranbval: [ADD RANBVAL LINK + 1–2 LINES ABOUT THE COMMUNITY HERE]
 
 ---
 
